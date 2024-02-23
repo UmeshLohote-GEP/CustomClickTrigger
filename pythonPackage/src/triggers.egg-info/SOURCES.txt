@@ -1,9 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-src/triggers/__init__.py
-src/triggers/custom_trigger.py
-src/triggers.egg-info/PKG-INFO
-src/triggers.egg-info/SOURCES.txt
-src/triggers.egg-info/dependency_links.txt
-src/triggers.egg-info/top_level.txt
